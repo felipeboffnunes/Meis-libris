@@ -26,6 +26,7 @@
         <li>O Signo dos Quatro</li>
         <li>O Vale do Terror</li>
         <li>Um Estudo em Vermelho</li>
+        <li>O Mundo Perdido</li>
       </ul>
   </li>
   <li><strong>Arthur Schopenhauer</strong>
@@ -38,6 +39,16 @@
   <li><strong>Avram Noam Chomsky</strong>
     <ul>
       <li>Quem manda no mundo?</li>
+    </ul>
+  </li>
+  <li><strong>Bob McFeeley</strong>
+    <ul>
+      <li>IDEAL: A User's Guide for SPI</li>
+    </ul>
+  </li>
+    <li><strong>Cal Newport</strong>
+    <ul>
+      <li>Deep Work</li>
     </ul>
   </li>
   <li><strong>Carl Sagan</strong>
@@ -221,6 +232,11 @@
       <li>Teoria do Conhecimento</li>
     </ul>
   </li>
+  <li><strong>Lee Smolin</strong>
+    <ul>
+      <li>The Life of the Cosmos</li>
+    </ul>
+  </li>
   <li><strong>Leonardo Da Vinci</strong>
     <ul>
       <li>Sátiras, Fábulas, Aforismos e Profecias</li>
@@ -229,6 +245,12 @@
   <li><strong>Ludwig Josef Johann Wittgenstein</strong>
     <ul>
       <li>Prototractatus</li>
+    </ul>
+  </li>
+  <li><strong>Marie T. Banich</strong>
+    <ul>
+      <li>Cognitive Neuroscience 4th I</li>
+      <li>Cognitive Neuroscience 4th II</li>
     </ul>
   </li>
   <li><strong>Mary Shelley</strong>
@@ -298,11 +320,21 @@
       <li>Epistemology</li>
     </ul>
   </li>
+  <li><strong>Richard J. Haier</strong>
+    <ul>
+      <li>The Neuroscience of Intelligence</li>
+    </ul>
+  </li>
    <li><strong>Robert Carson Allen</strong>
     <ul>
       <li>Historia Economica Global</li>
     </ul>
-  </li>
+  </li><li><strong>Robert Cecil Martin</strong>
+    <ul>
+      <li>Clean Architecture</li>
+    </ul>
+  </li
+  
    <li><strong>Robert Greene</strong>
     <ul>
       <li>48 Leis do Poder</li>
@@ -353,6 +385,11 @@
       <li>Hannibal, a Origem do Mal</li>
     </ul>
   </li>
+  <li><strong>Tim Brown</strong>
+    <ul>
+      <li>Design Thinking</li>
+    </ul>
+  </li>
   <li><strong>Sir Thomas More</strong>
     <ul>
       <li>A Utopia</li>
@@ -366,6 +403,11 @@
   <li><strong>Woody Allen</strong>
     <ul>
       <li>Cuca Fundida</li>
+    </ul>
+  </li>
+  <li><strong>Yamamoto Tsunetomo</strong>
+    <ul>
+      <li>Hagakure</li>
     </ul>
   </li>
 </ul>
