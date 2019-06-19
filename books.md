@@ -1,4 +1,4 @@
-Reading: O homem pós-orgânico, Paula Sibila p68
+Reading: O homem pós-orgânico, Paula Sibila p83
 <ul>
   <li><strong>Aaron Zimmerman</strong>
     <ul>
