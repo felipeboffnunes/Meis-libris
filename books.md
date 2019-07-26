@@ -1,4 +1,4 @@
-Reading: O homem pós-orgânico, Paula Sibila p83
+Reading: Princípios, Ray Dalio
 <ul>
   <li><strong>Aaron Zimmerman</strong>
     <ul>
@@ -293,6 +293,11 @@ Reading: O homem pós-orgânico, Paula Sibila p83
   <li><strong>Pablo Neruda</strong>
     <ul>
       <li>Elegia</li>
+    </ul>
+  </li>
+  <li><strong>Paula Sibila</strong>
+    <ul>
+      <li>O homem pós-orgânico</li>
     </ul>
   </li>
   <li><strong>Ray Bradbury</strong>
