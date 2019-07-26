@@ -404,6 +404,7 @@ Reading: Princípios, Ray Dalio
   <li><strong>W. Chan Kim</strong>
     <ul>
       <li>Blue Ocean Strategy</li>
+      <li>Blue Ocean Shift</li>
     </ul>
   </li>
   <li><strong>Woody Allen</strong>
