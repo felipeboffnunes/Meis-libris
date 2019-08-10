@@ -14,6 +14,11 @@ Reading: Princípios, Ray Dalio
     <ul>
       <li>Como Vejo o Mundo</li>
     </ul>
+  </li>
+  <li><strong>Aldous Huxley</strong>
+    <ul>
+      <li>Admirável Mundo Novo</li>
+    </ul>
   </li> 
   <li><strong>Anton Pavlovitch Tchekhov</strong>
     <ul>
