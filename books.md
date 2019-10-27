@@ -1,4 +1,4 @@
-Reading: Princípios, Ray Dalio
+Reading: Rápido e Devagar, Daniel Kahneman
 <ul>
   <li><strong>Aaron Zimmerman</strong>
     <ul>
@@ -238,6 +238,11 @@ Reading: Princípios, Ray Dalio
       <li>Teoria do Conhecimento</li>
     </ul>
   </li>
+  <li><strong>Joseph Jebelli</strong>
+    <ul>
+      <li>Em busca da memória</li>
+    </ul>
+  </li>
   <li><strong>Lee Smolin</strong>
     <ul>
       <li>The Life of the Cosmos</li>
@@ -308,6 +313,11 @@ Reading: Princípios, Ray Dalio
   <li><strong>Ray Bradbury</strong>
     <ul>
       <li>Fahrenheit 451</li>
+    </ul>
+  </li>
+  <li><strong>Ray Dalio</strong>
+    <ul>
+      <li>Princípios</li>
     </ul>
   </li>
    <li><strong>Raymond Kurzweil</strong>
@@ -420,6 +430,11 @@ Reading: Princípios, Ray Dalio
   <li><strong>Yamamoto Tsunetomo</strong>
     <ul>
       <li>Hagakure</li>
+    </ul>
+  </li>
+   <li><strong>Yuval Noah Hahari</strong>
+    <ul>
+      <li>Uma brevve história da humanidade - Sapiens</li>
     </ul>
   </li>
 </ul>
