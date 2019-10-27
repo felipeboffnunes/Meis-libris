@@ -434,7 +434,7 @@ Reading: Rápido e Devagar, Daniel Kahneman
   </li>
    <li><strong>Yuval Noah Hahari</strong>
     <ul>
-      <li>Uma brevve história da humanidade - Sapiens</li>
+      <li>Uma breve história da humanidade - Sapiens</li>
     </ul>
   </li>
 </ul>
